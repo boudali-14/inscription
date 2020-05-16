@@ -1,4 +1,5 @@
-# inscription
+# ajouter un cheval
+# add a horse
 un programme HTML pour faire une inscription
 <!DOCTYPE html>
 <html >
